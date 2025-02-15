@@ -14,7 +14,7 @@ Email Finder is a powerful and fast Python-based tool designed to extract email 
 ```bash
 git clone https://github.com/YogSec/email-finder.git
 cd email-finder
-pip install -r requirements.txt
+pip install requests bs4
 ```
 
 ## 🛠️ Usage
